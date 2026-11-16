@@ -24,6 +24,11 @@
   "ucdlib:hasLabel": {
     "@id": "@base:/labels"
   },
+   "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-11-20"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC/1.0/"

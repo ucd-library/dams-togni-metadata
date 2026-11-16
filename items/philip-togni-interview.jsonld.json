@@ -20,15 +20,11 @@
     "philip-togni-interview",
     "ark:/87293/d3r49gm3c"
   ],
-  "schema:dateCreated": {
+  "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "2024-02-13"
   },
   "schema:about": [
-    {
-      "@type": "schema:Person",
-      "schema:name": "Philip Togni"
-    },
     {
       "@id": "http://id.worldcat.org/fast/1047055"
     },
@@ -43,7 +39,6 @@
     "@type": "schema:Person",
     "schema:name": "Audrey Russek"
   },
-  "schema:inLanguage": "en",
   "schema:associatedMedia": {
     "@id": "@base:/media/final_philip-togni_edit_05.mp4"
   },
