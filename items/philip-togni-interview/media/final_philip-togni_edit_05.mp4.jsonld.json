@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:VideoObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:name": "Interview of Philip Togni",
+  "ebucore:filename": "final_philip-togni_edit_05.mp4",
+  "ebucore:hasMimeType": "video/mp4",
+  "schema:position": "1",
+  "schema:caption": {
+    "@id": "@base:../../captions/philip-togni-interview.vtt"
+  }
+}

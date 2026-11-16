@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:VideoObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:name": "Interview of Philip Togni",
+  "schema:description": "Audrey Russek of the UC Davis Library interviews winemaker Philip Togni about his upbringing, education, and career in the wine industry, including his work in Napa Valley.",
+  "schema:identifier": [
+    "philip-togni-interview",
+    "ark:/87293/d3r49gm3c"
+  ],
+  "schema:dateCreated": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2024-02-13"
+  },
+  "schema:about": [
+    {
+      "@type": "schema:Person",
+      "schema:name": "Philip Togni"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1047055"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1273793"
+    }
+  ],
+  "schema:contributor": {
+    "@type": "schema:Person",
+    "schema:name": "Audrey Russek"
+  },
+  "schema:inLanguage": "en",
+  "schema:associatedMedia": {
+    "@id": "@base:/media/final_philip-togni_edit_05.mp4"
+  },
+  "schema:transcript": {
+    "@id": "@base:/transcript/philip-togni-interview.txt"
+  },
+  "schema:image": {
+    "@id": "@base:/philip-togni-interview.jpg"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection"
+  ],
+  "schema:name": "Interview of Philip Togni",
+  "schema:description": "Philip Ivor Togni was born in Windsor, England, in 1926 to parents who immigrated from Switzerland and Italy. At university, Togni studied sedimentary geology and was later commissioned into a small, elite fighting unit of the British army, the 26 Assault Squadron Royal Engineers. Upon graduating, Togni worked first with Compania Petrolera Lobitos in Peru, and later with Shell Oil in Colombia. However, Togni decided that he wanted to grow things, and he decided on grapes.\n \nBy happenstance, Togni met UC Davis professor of viticulture and enology Maynard Amerine, in Madrid, Spain, in the 1950s, who was a significant influence on his career trajectory. With Amerine’s encouragement, Togni spent three years in France, both at the Ecole Nationale d' Agriculture in Montpellier and at the Universite de Bordeaux, where he studied under Émile Peynaud. He simultaneously gained practical experience through vineyard work in Algeria and at Margeaux in the Gironde, where he worked with Alexis Lichine at Château Lascombes.  At the Universite de Bordeaux, Togni was only the second person to earn the newly instituted Diplôme National d’Oenologie.\n \nAfter spending a year working in the Chilean wine industry, Togni moved to the Napa Valley in 1959, a region where he has spent 65 of the past 70 years in the wine business. He joined Mayacamas Vineyards with the job of planting vines. After his time at Mayacamas, Togni worked at Gallo winery in the Central Valley, where his research facilitated the replanting of table grapes with thousands of acres of wine grape cultivars. His professional legacy includes stints at Inglenook, Sterling, Chalone, Cuviason, and Chappellet, where his 1969 Estate Cabernet Sauvignon achieved 100 points from the Wine Advocate, Decanter and Vinous, and is widely considered one of the greatest wines ever made in California.\n \nFollowing his success at Chappellet, and encouraged by his wife, Birgitta, Togni established his own wine business – Philip Togni Vineyard – in 1975. They purchased 25 acres on Spring Mountain, at elevations of 2,000 feet, and in 1981 planted the first five acres of rootstock on a steep hillside. Over the last 45 years, the 10-acre family-run vineyard and winery – with Togni’s daughter, Lisa, now at the helm as winemaker – has continued to produce remarkable vintages that embody Togni’s storied career and steadfast commitment to small-production, exceptional Bordeaux-inspired wines.",
+  "schema:identifier": [
+    "togni",
+    "ark:/87293/d3vx06d87"
+  ],
+  "schema:image": {
+    "@id": "@base:/philip-togni-vineyard.jpg"
+  },
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1047055"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1273793"
+    }
+  ]
+}

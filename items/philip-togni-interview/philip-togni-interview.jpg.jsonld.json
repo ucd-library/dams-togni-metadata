@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:name": "Interview thumbnail",
+  "ebucore:filename": "philip-togni-interview.jpg",
+  "ebucore:hasMimeType": "image/jpeg",
+  "schema:position": "1",
+  "schema:alternativeHeadline": "Philip Togni sits on a wooden bench outdoors beside a wine bottle and glass."
+}
