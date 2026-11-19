@@ -14,7 +14,7 @@
     "schema:VideoObject",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:name": "Interview of Philip Togni",
+  "schema:name": "Interview with Philip Togni",
   "schema:identifier": [
     "O-043",
     "ark:/87293/d3r49gm3c"
@@ -34,10 +34,6 @@
       "@id": "http://id.worldcat.org/fast/1273793"
     }
   ],
-  "schema:contributor": {
-    "@type": "schema:Person",
-    "schema:name": "Audrey Russek"
-  },
   "schema:associatedMedia": {
     "@id": "@base:/media/final_philip-togni_edit_05.mp4"
   },
